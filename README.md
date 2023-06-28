@@ -3,7 +3,7 @@ Deep Learning with Python (by François Chollet) is an excellent introductory bo
 https://github.com/jaeohshin/deep-learning-with-keras
   
 - 🌱 I’m currently learning Data structure and Algorithms (June--, 2023)
-- This introductory lecture is nice to recap essential concepts in Python and Object-oriented Programing, etc.https://github.com/jaeohshin/Intro-to-Computation-and-Programming
+  This introductory lecture is nice to recap essential concepts in Python and Object-oriented Programing, etc.https://github.com/jaeohshin/Intro-to-Computation-and-Programming
 - 
 <!---
 jaeohshin/jaeohshin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
