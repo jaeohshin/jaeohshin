@@ -8,7 +8,8 @@ https://github.com/jaeohshin/deep-learning-with-keras
   This introductory lecture nicely recaps essential concepts in Python and Object-oriented Programing, etc.https://github.com/jaeohshin/Intro-to-Computation-and-Programming
 
 - 🌱 Simple data science projects (July 12 -- , 2023)
-  - https://github.com/jaeohshin/2ndTitanic
+  -
+  https://github.com/jaeohshin/2ndTitanic
 
 
 - 
