@@ -1,9 +1,9 @@
-- 🌱 I’m currently learning Deep learning. (May 15 -- June 23, 2023)
+- 🌱 Deep learning. (May 15 -- June 23, 2023)
   - 
 Deep Learning with Python (by François Chollet) is an excellent introductory book on deep learning.
 https://github.com/jaeohshin/deep-learning-with-keras
   
-- 🌱 I’m currently learning Data structure and Algorithms (June 26 -- , 2023)
+- 🌱 Data structure and Algorithms (June 26 -- , 2023)
   - 
   This introductory lecture nicely recaps essential concepts in Python and Object-oriented Programing, etc.https://github.com/jaeohshin/Intro-to-Computation-and-Programming
 
