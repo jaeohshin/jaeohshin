@@ -6,6 +6,11 @@ https://github.com/jaeohshin/deep-learning-with-keras
 - 🌱 I’m currently learning Data structure and Algorithms (June 26 -- , 2023)
   - 
   This introductory lecture nicely recaps essential concepts in Python and Object-oriented Programing, etc.https://github.com/jaeohshin/Intro-to-Computation-and-Programming
+
+- 🌱 Simple data science projects (July 12 -- , 2023)
+  - https://github.com/jaeohshin/2ndTitanic
+
+
 - 
 <!---
 jaeohshin/jaeohshin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
