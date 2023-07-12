@@ -9,7 +9,7 @@ https://github.com/jaeohshin/deep-learning-with-keras
 
 
 
-  - 🌱 Data structure and Algorithms (June 26 -- , 2023)
+- 🌱 Data structure and Algorithms (June 26 -- , 2023)
   - 
   This introductory lecture nicely recaps essential concepts in Python and Object-oriented Programing, etc.https://github.com/jaeohshin/Intro-to-Computation-and-Programming
 
