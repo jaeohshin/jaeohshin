@@ -3,15 +3,21 @@
 Deep Learning with Python (by François Chollet) is an excellent introductory book on deep learning.
 https://github.com/jaeohshin/deep-learning-with-keras
   
-- 🌱 Simple data science projects (July 12 -- , 2023)
+- 🌱 Simple data science projects (July 12 --, 2023)
   -
   https://github.com/jaeohshin/2ndTitanic
 
 
 
-- 🌱 Data structure and Algorithms (June 26 -- , 2023)
+- 🌱 Data structure and Algorithms (June 26 --, 2023)
   - 
   This introductory lecture nicely recaps essential concepts in Python and Object-oriented Programing, etc.https://github.com/jaeohshin/Intro-to-Computation-and-Programming
+
+
+
+- 🌱 Additional useful sites (July --, 2023)
+  - 
+  HackerRank https://hackerrank.com/dashboard
 
 
 
