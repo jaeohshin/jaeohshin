@@ -17,7 +17,7 @@ https://github.com/jaeohshin/deep-learning-with-keras
 
 - 🌱 Additional useful sites
   - 
-  HackerRank https://hackerrank.com/dashboard
+  HackerRank https://hackerrank.com/dashboard, How Do You Get To Carnegie Hall? Practice, Practice, Practice, You don't need to be smart, but you need to be diligent.
 
 
 
