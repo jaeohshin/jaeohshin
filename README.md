@@ -1,9 +1,9 @@
-- 🌱 Deep learning. (May 15 -- June 23, 2023)
+- 🌱 Deep learning.
   - 
 Deep Learning with Python (by François Chollet) is an excellent introductory book on deep learning.
 https://github.com/jaeohshin/deep-learning-with-keras
   
-- 🌱 Simple data science projects (July 12 --, 2023)
+- 🌱 Simple data science projects 
   -
   https://github.com/jaeohshin/2ndTitanic
 
