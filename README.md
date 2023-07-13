@@ -5,7 +5,7 @@ https://github.com/jaeohshin/deep-learning-with-keras
   
 - 🌱 Simple data science projects 
   -
-  https://github.com/jaeohshin/2ndTitanic
+  Mainly from Kaggle.com. https://github.com/jaeohshin/2ndTitanic
 
 
 
