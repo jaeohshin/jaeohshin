@@ -17,9 +17,9 @@ https://github.com/jaeohshin/deep-learning-with-keras
 
 
 
-- 🌱 Additional useful sites
+- 🌱 HackerRank Problem solving
   - 
-  HackerRank https://hackerrank.com/dashboard, How Do You Get To Carnegie Hall? Practice, Practice, Practice
+  How Do You Get To Carnegie Hall? Practice, Practice, Practice
   https://github.com/jaeohshin/Hackerrank-Problem-Solving-Python
 
 
