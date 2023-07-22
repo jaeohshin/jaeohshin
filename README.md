@@ -1,9 +1,9 @@
 - 🌱 Deep learning.
   - 
   Deep Learning with Python (by François Chollet) is an excellent introductory book on deep learning.
-https://github.com/jaeohshin/deep-learning-with-keras
+  Keras- https://github.com/jaeohshin/deep-learning-with-keras
 
-  PyTorch, https://github.com/jaeohshin/ML-with-Pytorch
+  PyTorch- https://github.com/jaeohshin/ML-with-Pytorch
   
 - 🌱 Simple data science projects 
   -
