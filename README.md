@@ -14,7 +14,7 @@
 
 - 🌱 Data Structure and Algorithms
   - 
-  This introductory lecture nicely recaps essential concepts in Python and Object-oriented Programing, etc.https://github.com/jaeohshin/Intro-to-Computation-and-Programming
+  This introductory lecture nicely recaps essential concepts in Python and Object-oriented programming, etc.https://github.com/jaeohshin/Intro-to-Computation-and-Programming
 
 
 
