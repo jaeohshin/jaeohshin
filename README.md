@@ -6,26 +6,6 @@
 
   PyTorch- https://github.com/jaeohshin/ML-with-Pytorch
   
-- 🌱 Simple data science projects 
-  -
-  Mainly from Kaggle.com. https://github.com/jaeohshin/Data-Science-Projects
-
-
-
-- 🌱 Data Structure and Algorithms
-  - 
-  This introductory lecture nicely recaps essential concepts in Python and Object-oriented programming, etc.https://github.com/jaeohshin/Intro-to-Computation-and-Programming
-
-
-
-- 🌱 HackerRank Problem solving
-  - 
-  How Do You Get To Carnegie Hall? Practice, Practice, Practice
-  https://github.com/jaeohshin/Hackerrank-Problem-Solving-Python
-
-
-
-
  
 <!---
 jaeohshin/jaeohshin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
