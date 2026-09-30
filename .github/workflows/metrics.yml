@@ -1,0 +1,33 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 15 * * *" # daily at 00:00 KST
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Classic PAT with scopes: repo, read:user, read:org (repo is needed to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.svg
+          config_timezone: Asia/Seoul
+          base: header, activity, community, repositories, metadata
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+
+          plugin_lines: yes
