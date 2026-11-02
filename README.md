@@ -1,4 +1,4 @@
- 🌱 Hello world!
+ 🌱 I'm exploring the world via coding!
 
 <!---
 ![Metrics](/metrics.svg)
